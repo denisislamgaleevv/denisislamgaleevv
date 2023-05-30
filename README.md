@@ -19,5 +19,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisislamgaleevv&layout=compact)](https://github.com/denisislamgaleevv/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisislamgaleevv)](https://github.com/denisislamgaleevv/github-readme-stats)
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=denisislamgaleevv)](https://github.com/denisislamgaleevv/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=denisislamgaleevv)](https://github.com/denisislamgaleevv/denisislamgaleevv)
