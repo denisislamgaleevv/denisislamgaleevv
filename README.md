@@ -18,13 +18,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisislamgaleevv)](https://github.com/denisislamgaleevv/github-readme-stats)
 
-Светлая тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=denisislamgaleevv)](https://github.com/denisislamgaleevv/leetcode-stats)
+ Светлая тема:  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=denisislamgaleevv)](https://github.com/KnlnKS/leetcode-stats)
 
 
 Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=denisislamgaleevv&theme=dark)](https://github.com/denisislamgaleevv/leetcode-stats)
-
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=denisislamgaleevv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
