@@ -17,12 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisislamgaleevv&layout=compact)](https://github.com/denisislamgaleevv/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisislamgaleevv)](https://github.com/denisislamgaleevv/github-readme-stats)
-
- Светлая тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=denisislamgaleevv)](https://github.com/KnlnKS/leetcode-stats)
-
-
-Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=denisislamgaleevv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
+ ![](https://komarev.com/ghpvc/?username=denisislamgaleevv)
